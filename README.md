@@ -12,7 +12,7 @@
 <ul>
   <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/reverse_the_string">reverse_the_string</a> (array, string)</li>
   <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/merge_sorted_array">merge_sorted_array</a> (array)</li>
-  <li><a href="">two_number_sum</a> (array)</li>
+  <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/two_sum">two_sum</a> (array)</li>
 </ul>
 
 

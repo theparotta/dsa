@@ -1,4 +1,4 @@
-def two_sum(nums: List[int], target: int) -> List[int]:
+def two_sum_pone(nums: List[int], target: int) -> List[int]:
   """
   COMPLEXITY:
     Time complexity  : O(N)   # as we loop through the entire list
@@ -22,3 +22,36 @@ def two_sum(nums: List[int], target: int) -> List[int]:
       return [place_holder[expected], i]
 
     place_holder[val] = i
+
+
+def two_sum_ptwo(nums, target):
+  """
+  COMPLEXITY:
+    Time complexity  : O(N log(N))   # as we sort the array (quick sort) & loop through array: O(N Log(N)) + O(N)
+    Space complexity : O(1)          # only two var to hold the position
+    
+  STEPS:
+   - sort the array in ascending order
+   - create var to mark the positions of left & right side of the array (as we loop through)
+   - until right var reaches zero loop through the elements,
+      - sum = left element + right element (in sorted array)
+        - if sum is lower than target, increment the left marker (so it move to next element)
+        - if sum is larger than target, decrement the right marker (so it points to one element before)
+        - if sum is equal to target, then that is our needed pair, return it
+  """
+  snums = sorted(nums)
+  print(snums)
+  
+  lptr = 0
+  rptr = len(snums) - 1
+  
+  while rptr >= 0:
+    val = snums[lptr] + snums[rptr]
+
+    if val == target:
+      return [snums[rptr], snums[lptr]]
+
+    if val > target:
+      rptr -= 1
+    else:
+      lptr += 1

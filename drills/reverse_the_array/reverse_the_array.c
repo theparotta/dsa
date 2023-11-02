@@ -26,13 +26,14 @@ int main() {
   for (int i = 0; i < size; i++)
     printf("%d ", arr[i]);
 
+  puts("\n");
   return 0;
 }
 
 
 void reverse_array(int arr[], int len) {
   for (int i = 0; i < len/2; i++)
-    swap(arr + i, arr + len - 1 - i)
+    swap(arr + i, arr + len - 1 - i);
 }
 
 

@@ -32,6 +32,11 @@ int main() {
 
 
 void reverse_array(int arr[], int len) {
+  /*   -------------------
+   *   |  -------------- |   swap these elements
+   *   | |             | |
+   *   0 1 2 3 4 5 6 7 8 9
+   */
   for (int i = 0; i < len/2; i++)
     swap(arr + i, arr + len - 1 - i);
 }

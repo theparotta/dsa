@@ -29,11 +29,10 @@ long_line_column=80
 
 [files]
 current_page=2
-FILE_NAME_0=0;None;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdsa.geany;0;2
-FILE_NAME_1=0;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2FREADME.md;0;2
-FILE_NAME_2=622;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F4_largest_element_in_array%2Flargest_element_in_array.c;0;2
+FILE_NAME_0=333;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F4_largest_element_in_array%2Flargest_element_in_array.c;0;2
+FILE_NAME_1=0;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F1_reverse_the_array%2Freverse_the_array.c;0;2
+FILE_NAME_2=1259;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F5_second_largest_smallest%2Fsecond_largest_smallest.c;0;2
 FILE_NAME_3=20;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F2_merge_sorted_array%2Fmerge_sorted_array.c;0;2
-FILE_NAME_4=0;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F1_reverse_the_array%2Freverse_the_array.c;0;2
 
 [VTE]
-last_dir=/home/kick/Atherton/dsa/drills/4_largest_element_in_array
+last_dir=/home/kick/Atherton/dsa/drills/5_second_largest_smallest

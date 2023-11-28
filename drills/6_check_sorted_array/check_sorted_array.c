@@ -44,7 +44,7 @@ int is_sorted_array(int arr[], int size) {
 
 /* Every thing starts here */
 int main() {
-  int input[] = {4,5,4,4,4};
+  int input[] = {1,2,1,3,4};
   int size = sizeof(input) / sizeof(input[0]);
 
   int status = is_sorted_array(input, size);

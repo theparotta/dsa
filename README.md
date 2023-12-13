@@ -1,22 +1,23 @@
-<h2 align="center">::: My DSA Adventures :::</h2>
+<h2 align="center">:sloth: ::: My DSA Adventures ::: :evergreen_tree:</h2>
 
 
-<h5>DATA STRUCTURES</h5>
+<h5>:curly_loop: DATA STRUCTURES</h5>
 <ul>
   <li><a href="https://github.com/theparotta/dsa/blob/trunk/datastructures/myarray.py">Array</a></li>
 </ul>
 
 ---
 
-<h5>DRILLS (w/ category)</h5>
-<h6>Warmup:</h6>
+<h5>:trident: DRILLS (w/ category)</h5>
+<h6>WARMUP (unsorted) </h6>
 <ol start="0">
-  <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/0_reverse_the_string">perfect_number</a> (array, string) :copyright: </li>
+  <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/9_perfect_number">perfect_number</a> :copyright: </li>
 </ol>
 
 <h2></h2>
 
-<h6>DS | Arrry:</h6>
+
+<h6>DS | ARRAY</h6>
 <ol start="0">
   <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/0_reverse_the_string">reverse_the_string</a> (array, string) :copyright: </li>
   <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/1_reverse_the_array">reverse_the_array (in_place)</a> (array) :copyright: </li>

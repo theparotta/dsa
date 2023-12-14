@@ -11,6 +11,7 @@
 <h5>:trident: DRILLS (w/ category)</h5>
 <h6>WARMUP (unsorted) </h6>
 <ol start="0">
+  <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/10_square_root">square_root</a> :copyright: </li>
   <li><a href="https://github.com/theparotta/dsa/tree/trunk/drills/9_perfect_number">perfect_number</a> :copyright: </li>
 </ol>
 

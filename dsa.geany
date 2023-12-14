@@ -28,10 +28,11 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=2
-FILE_NAME_0=629;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F9_perfect_number%2FREADME.md;0;2
-FILE_NAME_1=721;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F10_square_root%2FREADME.md;0;2
-FILE_NAME_2=265;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F10_square_root%2Fsquare_root.c;0;2
+current_page=1
+FILE_NAME_0=454;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F9_perfect_number%2FREADME.md;0;2
+FILE_NAME_1=400;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2FREADME.md;0;2
+FILE_NAME_2=721;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F10_square_root%2FREADME.md;0;2
+FILE_NAME_3=280;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F10_square_root%2Fsquare_root.c;0;2
 
 [VTE]
-last_dir=/home/kick/Atherton/dsa/drills/10_square_root
+last_dir=/home/kick/Atherton/dsa

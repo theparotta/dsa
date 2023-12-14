@@ -28,13 +28,9 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=4
-FILE_NAME_0=324;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F5_second_largest_smallest%2Fsecond_largest_smallest.c;0;2
-FILE_NAME_1=473;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F6_check_sorted_array%2Fcheck_sorted_array.c;0;2
-FILE_NAME_2=0;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F7_remove_duplicates_from_sorted_array%2Fremove_duplicates.c;0;2
-FILE_NAME_3=795;Python;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F7_remove_duplicates_from_sorted_array%2Fremove_duplicates.py;0;2
-FILE_NAME_4=1360;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2FREADME.md;0;2
-FILE_NAME_5=0;None;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdsa.geany;0;2
+current_page=0
+FILE_NAME_0=911;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F9_perfect_number%2FREADME.md;0;2
+FILE_NAME_1=682;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F9_perfect_number%2Fperfect_number.c;0;2
 
 [VTE]
-last_dir=/home/kick/Atherton/dsa
+last_dir=/home/kick/Atherton/dsa/drills/9_perfect_number

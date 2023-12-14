@@ -11,6 +11,11 @@ bool is_perfect_number(int input) {
    *      c. check if each number divides the input, if yes then it's a factor
    * 2. calculate the sum, excluding the number
    * 3. check if it's equal to input or not
+   *
+   * COMPLEXITY ANALYSIS:
+   * ====================
+   * Time complexity  : O( sqrt(N) )   # as we loop from 2 to square root for the input number
+   * Space complexity : O(1)
   */
 
   int sum = 0;

@@ -27,9 +27,7 @@ You don't need to read input or print anything. <br>
 Your task is to complete the function isPerfectNumber() which takes an Integer N as input <br>
 and returns 1 if N is a Perfect number else returns 0.
 
-**Expected Time Complexity**: O(sqrt(N))
-
-**Expected Auxiliary Space**: O(1)
-
-**Constraints**:
+**Expected Time Complexity**: O(sqrt(N)) <br>
+**Expected Auxiliary Space**: O(1) <br>
+**Constraints**: <br>
 1 <= N <= 1012

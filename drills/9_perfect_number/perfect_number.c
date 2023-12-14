@@ -30,6 +30,7 @@ bool is_perfect_number(int input) {
     }
   }
 
+  // 1 is added as 1 is always a factor of any number
   return (sum + 1) == input;
 }
 

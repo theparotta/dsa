@@ -28,7 +28,7 @@ long_line_behaviour=1
 long_line_column=80
 
 [files]
-current_page=1
+current_page=0
 FILE_NAME_0=454;Markdown;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F9_perfect_number%2FREADME.md;0;2
 FILE_NAME_1=1103;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F10_square_root%2Fsquare_root.c;0;2
 FILE_NAME_2=426;C;0;EUTF-8;0;1;1;%2Fhome%2Fkick%2FAtherton%2Fdsa%2Fdrills%2F9_perfect_number%2Fperfect_number.c;0;2
